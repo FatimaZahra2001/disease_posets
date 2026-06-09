@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.log
+*.csv
+*.nii
+*.nii.gz
+*.mgz
+*.pkl
+outputs/
+results/
+analysis/
